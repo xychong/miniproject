@@ -5,4 +5,3 @@ Next, we made some modifications to the classification algorithm to perform imag
 ## Files in this Project ##
 1. Dog_vs_Cat_Classification.ipynb
 2. Cifar-10_Classification.ipynb
-3. submission.csv
